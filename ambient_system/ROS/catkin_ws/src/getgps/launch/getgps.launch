@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="getgps" type="getgps.py" name="getgps" output="screen" >
+	</node>
+</launch>

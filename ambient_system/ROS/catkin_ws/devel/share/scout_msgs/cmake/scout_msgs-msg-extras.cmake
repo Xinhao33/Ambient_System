@@ -1,0 +1,2 @@
+set(scout_msgs_MESSAGE_FILES "/home/xinhao/AgilexSDK/ROS/catkin_ws/src/scout_ros/scout_msgs/msg/ScoutStatus.msg;/home/xinhao/AgilexSDK/ROS/catkin_ws/src/scout_ros/scout_msgs/msg/ScoutMotorState.msg;/home/xinhao/AgilexSDK/ROS/catkin_ws/src/scout_ros/scout_msgs/msg/ScoutLightState.msg;/home/xinhao/AgilexSDK/ROS/catkin_ws/src/scout_ros/scout_msgs/msg/ScoutLightCmd.msg;/home/xinhao/AgilexSDK/ROS/catkin_ws/src/scout_ros/scout_msgs/msg/ScoutBmsStatus.msg;/home/xinhao/AgilexSDK/ROS/catkin_ws/src/scout_ros/scout_msgs/msg/ScoutDriverState.msg")
+set(scout_msgs_SERVICE_FILES "")

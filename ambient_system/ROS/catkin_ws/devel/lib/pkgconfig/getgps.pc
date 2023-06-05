@@ -1,0 +1,8 @@
+prefix=/home/xinhao/AgilexSDK/ROS/catkin_ws/devel
+
+Name: getgps
+Description: Description of getgps
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
